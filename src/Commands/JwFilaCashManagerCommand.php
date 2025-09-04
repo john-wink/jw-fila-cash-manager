@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace JohnWink\JwFilaCashManager\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class JwFilaCashManagerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'jw-fila-cash-manager';
 
     public $description = 'My command';
 
